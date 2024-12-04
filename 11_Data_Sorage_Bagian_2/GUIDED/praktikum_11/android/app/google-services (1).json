@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "486800561890",
-    "project_id": "praktikum11-6db64",
-    "storage_bucket": "praktikum11-6db64.firebasestorage.app"
+    "project_number": "927762186689",
+    "project_id": "praktikum11-1b5a9",
+    "storage_bucket": "praktikum11-1b5a9.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:486800561890:android:795595ffb4c7cac4cc30bb",
+        "mobilesdk_app_id": "1:927762186689:android:05d01a5801a3c1c866ef40",
         "android_client_info": {
           "package_name": "com.example.praktikum_11"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB7OPrDg7oiQQpxCfYV0wtBnLH62Zvp7j8"
+          "current_key": "AIzaSyAV6-sdOvIMTIgdguT8Aovkhm7IXEut3K0"
         }
       ],
       "services": {
